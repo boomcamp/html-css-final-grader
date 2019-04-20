@@ -1,0 +1,23 @@
+{
+  "name": "html-css-final-grader",
+  "version": "1.0.0",
+  "description": "A node script to automatically grade the html-css-final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boomcamp/html-css-final-grader.git"
+  },
+  "author": "Aodhan Hayter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boomcamp/html-css-final-grader/issues"
+  },
+  "homepage": "https://github.com/boomcamp/html-css-final-grader#readme",
+  "dependencies": {
+    "@octokit/rest": "^16.25.0",
+    "puppeteer": "^1.14.0"
+  }
+}
